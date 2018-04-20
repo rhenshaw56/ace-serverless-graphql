@@ -1,0 +1,19 @@
+{
+  "name": "ace-backend",
+  "version": "1.0.0",
+  "description": "Serverless grapql backend for blogging app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhenshaw56/ace-serverless-graphql.git"
+  },
+  "author": "henshaw rowland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhenshaw56/ace-serverless-graphql/issues"
+  },
+  "homepage": "https://github.com/rhenshaw56/ace-serverless-graphql#readme"
+}
